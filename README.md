@@ -4,7 +4,7 @@ Welcome to the Parallel Programming repository! This repository is dedicated to 
 
 ## Concurrent programming
 
-In the directories Merge_Concurrent_Algorithm and Bridge We'll be using Python's `multiprocessing` library to explore techniques such as semaphores, monitors, and more. Each practice comes with detailed explanations and code examples to help you grasp the principles of concurrent programming.
+In the directories "Merge_Concurrent_Algorithm" and "Bridge" we'll be using Python's `multiprocessing` library to explore techniques such as semaphores, monitors, and more. Each practice comes with detailed explanations and code examples to help you grasp the principles of concurrent programming.
 
 ## Distributed programming
 
