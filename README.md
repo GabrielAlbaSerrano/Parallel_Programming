@@ -10,6 +10,6 @@ In the directories "Merge_Concurrent_Algorithm" and "Bridge" we'll be using Pyth
 
 The "Chat_Games" directory contains a multi-user chat application with an added twist: a multiplayer game feature! This interactive chat application lets users communicate with each other and engage in multiplayer gaming sessions. It's a practical example of distributed programming concepts in action.
 
-## Parallel data analysis and programming
+## Parallel data analysis (pyspark)
 
 In the "BiciMad_Data_Analysis" directory, we dive into the world of big data analysis using the PySpark library. We focus on analyzing data from the BiciMad company, applying parallel processing techniques to efficiently handle and analyze large datasets. From data loading to transformation and insights extraction, this section showcases the power of parallelism in data analysis.
